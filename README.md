@@ -47,7 +47,7 @@ The dataset is located in the `data/raw/` folder.
    - Select relevant features for the model.
 
 4. **Model Training**:
-   - Train models like Linear Regression and Lasso Regression.
+   - Train models like Linear Regression.
    - Split the data into training and testing sets.
 
 5. **Model Evaluation**:
