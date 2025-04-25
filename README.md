@@ -7,8 +7,6 @@ This repository contains a machine learning project for predicting car purchase 
 - [Dataset](#dataset)
 - [Methodology](#methodology)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
 
 ---
 
