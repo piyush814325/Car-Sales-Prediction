@@ -29,7 +29,7 @@ The dataset used in this project is `car_purchasing.csv`, which contains the fol
 - `Net Worth`
 - `Car Purchase Amount`
 
-The dataset is located in the `data/raw/` folder.
+The dataset is located in the https://github.com/piyush814325/Car-Sales-Prediction/blob/main/car_purchasing.csv
 
 ---
 
