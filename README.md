@@ -60,4 +60,4 @@ The dataset is located in the https://github.com/piyush814325/Car-Sales-Predicti
 1. Clone the repository:
    ```bash
    git clone https://github.com/piyush814325/Car-Sales-Prediction.git
-   cd sales-prediction
+
