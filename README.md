@@ -59,5 +59,5 @@ The dataset is located in the https://github.com/piyush814325/Car-Sales-Predicti
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sales-prediction.git
+   git clone https://github.com/piyush814325/Car-Sales-Prediction.git
    cd sales-prediction
